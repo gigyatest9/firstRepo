@@ -6,6 +6,8 @@
 <body>
 <h2>Hello Heroku!</h2>
 If you can see this it probably works.<br />
-
+<?php 
+echo '<br />This a PHP echo<br />';
+?>
 </body>
 </html>
